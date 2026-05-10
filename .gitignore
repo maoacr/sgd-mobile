@@ -51,3 +51,4 @@ assets/
 *.yaml
 skills-lock.json
 eslint.config.js
+.claude/
